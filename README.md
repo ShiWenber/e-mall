@@ -21,7 +21,7 @@ a front end project for e-mall web
 
 ## 前置条件
 
-- 安装 node.js（用于配置本地 Tailwind CSS）
+- 安装 node.js（用于以 CLI 方式配置本地 Tailwind CSS）
 
 ## 我的 VSCode 配置
 
