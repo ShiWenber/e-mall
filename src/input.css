@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* 编写card样式类 */
+.card {
+    @apply h-40 w-60 shadow-2xl border rounded-2xl bg-gradient-to-r from-violet-500 to-white;
+}
+
+.headPad {
+    @apply text-white bg-blue-300 h-48;
+}
+/* 表示headPad下的文本框全值大小 mt-3表示外边距到顶部为3 */
+.headPad input {
+    @apply w-full mt-3;
+}
+
+.mainPad {
+    @apply h-32 w-32 rounded-full bg-blue-500;
+}
+
+.barPad {
+    @apply h-32 w-32 rounded-full bg-blue-500;
+}
+
