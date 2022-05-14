@@ -1,4 +1,6 @@
-# web 开发
+# e-mall
+
+a front end project for e-mall web
 
 本文件夹结构：
 
