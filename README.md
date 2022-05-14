@@ -19,9 +19,24 @@ a front end project for e-mall web
 
 - README.md
 
+## 前置条件
+
+- 安装 node.js（用于配置本地 Tailwind CSS）
+
+## 我的 VSCode 配置
+
+插件
+
+- HTML Snippets（提供 HTML 代码片段功能）
+- HTML CSS Support
+- HTML Preview（提供 HTML 文件效果预览）
+- Tailwind CSS IntelliSense（提供 Tailwind CSS 相关的 CSS 智能提醒）
+- Tailwind Docs（快速打开 Tailwind 官方文档）
+- Tailwind Snippets（提供 Tailwind 代码片段）
+
 ## 小程序
 
-小程序不适合初学（差？）
+小程序不适合初学（？）
 
 ## 纯混合开发
 
@@ -66,6 +81,8 @@ a front end project for e-mall web
 [Installation: Tailwind CLI - Tailwind CSS](https://tailwindcss.com/docs/installation)
 
 安装方式：CLI, Postcss, framework Guide, Play CDN
+
+推荐 CLI 方式安装
 
 #### CLI方式安装
 
